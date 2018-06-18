@@ -1,6 +1,6 @@
 # interaction_in_virtualreality_techniques
 
-This reporisitory is part of the project titled " Interaction in Virtual Reality " which is at build stage and its part of virtual realiry course at Bielefeld University.
+This reporisitory is part of the project titled " Interaction in Virtual Reality " which is at build stage and its part of virtual reality course at Bielefeld University.
 
 #### Scene to be tested on: SuperMarket
 #### Tools Used:
